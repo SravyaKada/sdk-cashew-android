@@ -1,9 +1,11 @@
 cnmessagingsdk.dao
 cnmessagingsdk.dao.account
 cnmessagingsdk.dao.user
+cnmessagingsdk.loment.sdk
 cnmessagingsdk.loment.sdk.crypto
 cnmessagingsdk.loment.sdk.database
 cnmessagingsdk.loment.sdk.models
 cnmessagingsdk.loment.sdk.network
 cnmessagingsdk.loment.sdk.network.callbacks
 cnmessagingsdk.loment.sdk.settings
+cnmessagingsdk.loment.sdk.test
