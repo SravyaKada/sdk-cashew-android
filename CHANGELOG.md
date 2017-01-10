@@ -1,4 +1,11 @@
 
+## Version 1.1 (Jan 09, 2016)
+
+- Supports for Groups chat
+- Fixed unread message count 
+- Partner ID is parameterised
+- 1-Step Registration
+
 ## Version 1.0.1 (Dec 2, 2016)
 
 - Support multi-user login
