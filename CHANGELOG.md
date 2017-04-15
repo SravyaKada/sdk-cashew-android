@@ -1,3 +1,7 @@
+## Version 2.0 (Apr 14, 2017)
+
+- Supports on-premise Cashew server
+- Several bug fixes
 
 ## Version 1.1 (Jan 09, 2016)
 
