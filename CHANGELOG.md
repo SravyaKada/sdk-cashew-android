@@ -1,3 +1,11 @@
+# Cashew Android SDK
+
+## Version 2.1.0 (June 29, 2017)
+
+- Package name change
+- Added new resend utility method to MessagingManager
+- Bug fixes and improvements
+
 ## Version 2.0 (Apr 14, 2017)
 
 - Supports on-premise Cashew server
@@ -6,7 +14,7 @@
 ## Version 1.1 (Jan 09, 2016)
 
 - Supports for Groups chat
-- Fixed unread message count 
+- Fixed unread message count
 - Partner ID is parameterised
 - 1-Step Registration
 
@@ -22,3 +30,9 @@
 ## Version 1.0 (Aug 1, 2016)
 - Support Cashew Messaging
 - Login, Account Creation and 1:1 messaging
+
+
+# Cashew Android AV
+
+## Version 1.0.0 (June 29, 2017)
+- Standalone SDK for the Sinch audio/video calling service
