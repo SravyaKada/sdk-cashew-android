@@ -2,7 +2,7 @@
 
 This repository hosts Cashew SDK for messaging. Built by Loment.
 
-If you are facing any issues, please log them [here](https://github.com/Loment/sdk-cashew-android/issues) or email <muthu@loment.net> to expedite.
+If you are facing any issues, please log them [here](https://github.com/Loment/sdk-cashew-android/issues) or email <john.strougal@loment.net> to expedite.
 
 To get stated, please visit [our guide](https://github.com/Loment/sdk-cashew-android/wiki)
 
